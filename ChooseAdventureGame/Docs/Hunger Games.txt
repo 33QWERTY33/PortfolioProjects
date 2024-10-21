@@ -1,0 +1,30 @@
+$ID: 1;
+$I: A, B, C, D;
+$O: A2, B3, C4, D5;
+[This is the first line;]
+
+$ID: 2;
+$I: A, B, C, D;
+$O: A1, B3, C4, D5;
+[*OThis is;
+*Ysecond text;]
+
+$ID: 3;
+$I: A, B, C, D;
+$O: A1, B2, C4, D5;
+[*GThe;
+*Bthird text;]
+
+$ID: 4;
+$I: A, B, C, D;
+$O: A1, B2, C3, D5;
+[*IThis is the 4th text;]
+
+$ID: 5;
+$I: A, B, C, D;
+$O: A1, B2, C3, D4;
+[*VThis;
+is;
+the;
+fifth;
+text;]

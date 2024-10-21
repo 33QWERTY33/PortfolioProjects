@@ -1,0 +1,7 @@
+{
+    "header_text": "Welcome to the Hunger Games",
+    "txt_fg_color":"R",
+    "opt_fg_color":"B",
+    "char_by_char": "True",
+    "print_speed": ".1"
+}

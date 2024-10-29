@@ -1,0 +1,72 @@
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\ToDoApp.exe.config
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\ToDoApp.exe
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\ToDoApp.pdb
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Buffers.dll
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Memory.dll
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Numerics.Vectors.dll
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Text.Json.dll
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.ValueTuple.dll
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Buffers.xml
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Memory.xml
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Numerics.Vectors.xml
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Text.Json.xml
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\bin\Release\System.ValueTuple.xml
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.ClusterOverviewBox.resources
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.ClusterView.resources
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.CreateClusterView.resources
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.CreateTaskView.resources
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.MainWindow.resources
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.Properties.Resources.resources
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.TaskDetailsView.resources
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.TaskOverviewBox.resources
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.TaskView.resources
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.csproj.GenerateResource.cache
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.csproj.Up2Date
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.exe
+C:\Users\curle\Desktop\School\IN351 - Mobile and Web Dev W C#\M3 - UI Dev and Data Validation\ToDoApp\ToDoApp\obj\Release\ToDoApp.pdb
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\ToDoApp.exe.config
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\ToDoApp.exe
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\ToDoApp.pdb
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Buffers.dll
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Memory.dll
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Numerics.Vectors.dll
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Text.Json.dll
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.ValueTuple.dll
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Buffers.xml
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Memory.xml
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Numerics.Vectors.xml
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Text.Json.xml
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\bin\Release\System.ValueTuple.xml
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.ClusterOverviewBox.resources
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.ClusterView.resources
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.CreateClusterView.resources
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.CreateTaskView.resources
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.MainWindow.resources
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.Properties.Resources.resources
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.TaskDetailsView.resources
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.TaskOverviewBox.resources
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.TaskView.resources
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.csproj.GenerateResource.cache
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.csproj.Up2Date
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.exe
+C:\Users\curle\Desktop\Code\CompletedProjects\ToDoApp\ToDoApp\obj\Release\ToDoApp.pdb

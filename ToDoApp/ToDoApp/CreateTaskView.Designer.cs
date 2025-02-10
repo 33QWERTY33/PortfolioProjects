@@ -133,7 +133,7 @@
             // TitleInput
             // 
             this.TitleInput.Location = new System.Drawing.Point(259, 21);
-            this.TitleInput.MaxLength = 50;
+            this.TitleInput.MaxLength = 40;
             this.TitleInput.Name = "TitleInput";
             this.TitleInput.Size = new System.Drawing.Size(376, 22);
             this.TitleInput.TabIndex = 12;

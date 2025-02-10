@@ -59,6 +59,8 @@ namespace ToDoApp
 
             ViewManager.taskView.currentCluster = ViewManager.clusterView.clusterOverviewBoxes[this.title];
 
+            ViewManager.taskView.Clusterlbl.Text = this.title;
+
             ViewManager.changeView(ViewManager.clusterView, ViewManager.taskView);
         }
     }

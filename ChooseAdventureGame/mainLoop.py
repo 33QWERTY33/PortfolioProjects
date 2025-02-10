@@ -1,3 +1,4 @@
+#ENTRY
 if __name__ == '__main__':
     from mainLoopCtrl import readText, displayChoices, choiceChecker, pathFinder, endFlag, collectStartInfo
     from saveFeature import createSave, createSaveFlag

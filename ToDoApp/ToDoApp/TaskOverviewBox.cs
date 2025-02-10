@@ -60,6 +60,7 @@ namespace ToDoApp
             ViewManager.changeView(ViewManager.createTaskView, ViewManager.taskDetailsView);
             // For some reason the task details view shows up occasionally, this is a bug that has stumped me but it has a 2ms fix...
 
+            ViewManager.taskDetailsView.TaskDetailsTitlelbl.Text = this.title;
             ViewManager.taskDetailsView.DueDateDisplaylbl.Text = "Due: " + this.dueDate;
             ViewManager.taskDetailsView.CategoryDisplaylbl.Text = "Category: " + this.category;
             ViewManager.taskDetailsView.UrgencyDisplaylbl.Text = "Urgency: " + this.urgency;

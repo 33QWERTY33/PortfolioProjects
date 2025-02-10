@@ -147,10 +147,10 @@
             // TaskDetailsTitlelbl
             // 
             this.TaskDetailsTitlelbl.AutoSize = true;
-            this.TaskDetailsTitlelbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TaskDetailsTitlelbl.Location = new System.Drawing.Point(552, 18);
+            this.TaskDetailsTitlelbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TaskDetailsTitlelbl.Location = new System.Drawing.Point(258, 11);
             this.TaskDetailsTitlelbl.Name = "TaskDetailsTitlelbl";
-            this.TaskDetailsTitlelbl.Size = new System.Drawing.Size(232, 46);
+            this.TaskDetailsTitlelbl.Size = new System.Drawing.Size(200, 39);
             this.TaskDetailsTitlelbl.TabIndex = 2;
             this.TaskDetailsTitlelbl.Text = "Task Name";
             // 
@@ -190,7 +190,7 @@
             // 
             this.TaskContentsBox.BackColor = System.Drawing.SystemColors.InactiveBorder;
             this.TaskContentsBox.Enabled = false;
-            this.TaskContentsBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TaskContentsBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TaskContentsBox.Location = new System.Drawing.Point(247, 102);
             this.TaskContentsBox.Multiline = true;
             this.TaskContentsBox.Name = "TaskContentsBox";
@@ -203,7 +203,7 @@
             // 
             this.TaskNotesBox.BackColor = System.Drawing.SystemColors.InactiveBorder;
             this.TaskNotesBox.Enabled = false;
-            this.TaskNotesBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TaskNotesBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TaskNotesBox.Location = new System.Drawing.Point(697, 102);
             this.TaskNotesBox.Multiline = true;
             this.TaskNotesBox.Name = "TaskNotesBox";
@@ -243,7 +243,7 @@
         internal System.Windows.Forms.Label DueDateDisplaylbl;
         internal System.Windows.Forms.Label UrgencyDisplaylbl;
         private System.Windows.Forms.Label Detailslbl;
-        private System.Windows.Forms.Label TaskDetailsTitlelbl;
+        internal System.Windows.Forms.Label TaskDetailsTitlelbl;
         private System.Windows.Forms.Label TaskContentslbl;
         private System.Windows.Forms.Label TaskNoteslbl;
         private System.Windows.Forms.Button UpdateTaskbtn;

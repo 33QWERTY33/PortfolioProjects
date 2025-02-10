@@ -316,15 +316,15 @@
             // 
             this.ClusterViewPanel.AutoScroll = true;
             this.ClusterViewPanel.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.ClusterViewPanel.Location = new System.Drawing.Point(293, 85);
+            this.ClusterViewPanel.Location = new System.Drawing.Point(293, 66);
             this.ClusterViewPanel.Name = "ClusterViewPanel";
-            this.ClusterViewPanel.Size = new System.Drawing.Size(743, 570);
+            this.ClusterViewPanel.Size = new System.Drawing.Size(743, 589);
             this.ClusterViewPanel.TabIndex = 1;
             // 
             // Clusterlbl
             // 
-            this.Clusterlbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Clusterlbl.Location = new System.Drawing.Point(514, 18);
+            this.Clusterlbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Clusterlbl.Location = new System.Drawing.Point(296, 18);
             this.Clusterlbl.Name = "Clusterlbl";
             this.Clusterlbl.Size = new System.Drawing.Size(290, 45);
             this.Clusterlbl.TabIndex = 4;

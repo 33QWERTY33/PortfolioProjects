@@ -1,16 +1,16 @@
 score limit================>3
 second player==============>False
-starting speed=============>0.008
-speed incrementor==========>0.00005
+starting speed=============>0.01
+speed incrementor==========>0.00009
 ball speed=================>6
 paddle speeds==============>5
 player 1 bar color=========>green
 player 2 bar color=========>green
-ball color=================>white
+ball color=================>blue
 text color=================>white
 background color===========>black
-Player 1 win message=======>Curtis is dope
-Player 2 win message=======>Eley is cool
+Player 1 win message=======>Congrats
+Player 2 win message=======>Congrats
 background music===========>None
 win music==================>None
 sfx========================>None

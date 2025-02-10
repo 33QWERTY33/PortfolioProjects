@@ -63,10 +63,10 @@
             // Clusterlbl
             // 
             this.Clusterlbl.AutoSize = true;
-            this.Clusterlbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Clusterlbl.Location = new System.Drawing.Point(558, 14);
+            this.Clusterlbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Clusterlbl.Location = new System.Drawing.Point(284, 14);
             this.Clusterlbl.Name = "Clusterlbl";
-            this.Clusterlbl.Size = new System.Drawing.Size(213, 46);
+            this.Clusterlbl.Size = new System.Drawing.Size(230, 49);
             this.Clusterlbl.TabIndex = 5;
             this.Clusterlbl.Text = "Task View";
             this.Clusterlbl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;

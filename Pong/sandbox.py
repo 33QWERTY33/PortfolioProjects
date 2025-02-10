@@ -1,3 +1,4 @@
+#ENTRY
 from tkinter import *
 import time as t
 import random

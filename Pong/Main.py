@@ -1,3 +1,4 @@
+#ENTRY
 from Settings import *
 import time as t
 from Movement import *

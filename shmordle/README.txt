@@ -1,0 +1,1 @@
+Visit this URL for details: https://github.com/33QWERTY33/shmordle
